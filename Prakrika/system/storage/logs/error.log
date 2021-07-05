@@ -1,0 +1,5 @@
+2021-06-23 22:40:29 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'prakrika' in W:\domains\Prakrika\system\library\db\mysqli.php on line 7
+2021-06-23 22:40:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\Prakrika\system\library\db\mysqli.php on line 10
+2021-06-23 22:40:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\Prakrika\system\library\db\mysqli.php on line 10
+2021-06-23 22:40:29 - PHP Notice:  Undefined variable: mysql in W:\domains\Prakrika\install\controller\install\step_3.php on line 280
+2021-06-23 22:40:29 - PHP Notice:  Trying to get property of non-object in W:\domains\Prakrika\install\controller\install\step_3.php on line 280

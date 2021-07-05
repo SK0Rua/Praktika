@@ -1,0 +1,97 @@
+2021-06-23 22:40:29 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'prakrika' in W:\domains\Prakrika\system\library\db\mysqli.php on line 7
+2021-06-23 22:40:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\Prakrika\system\library\db\mysqli.php on line 10
+2021-06-23 22:40:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\Prakrika\system\library\db\mysqli.php on line 10
+2021-06-23 22:40:29 - PHP Notice:  Undefined variable: mysql in W:\domains\Prakrika\install\controller\install\step_3.php on line 280
+2021-06-23 22:40:29 - PHP Notice:  Trying to get property of non-object in W:\domains\Prakrika\install\controller\install\step_3.php on line 280
+2021-07-02 22:22:01 - PHP Warning:  Invalid argument supplied for foreach() in W:\domains\Prakrika\storage\modification\system\engine\loader.php on line 83
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 275
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:41:26 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 275
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:42:30 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 275
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:47:39 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 275
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:51:31 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: customer in W:\domains\Prakrika\admin\controller\sale\forma.php on line 156
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: forma_status in W:\domains\Prakrika\admin\controller\sale\forma.php on line 157
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 158
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: currency_code in W:\domains\Prakrika\admin\controller\sale\forma.php on line 158
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: currency_value in W:\domains\Prakrika\admin\controller\sale\forma.php on line 158
+2021-07-03 21:52:00 - PHP Notice:  Undefined index:  in W:\domains\Prakrika\system\library\cart\currency.php on line 25
+2021-07-03 21:52:00 - PHP Notice:  Undefined index:  in W:\domains\Prakrika\system\library\cart\currency.php on line 26
+2021-07-03 21:52:00 - PHP Notice:  Undefined index:  in W:\domains\Prakrika\system\library\cart\currency.php on line 27
+2021-07-03 21:52:00 - PHP Notice:  Undefined index:  in W:\domains\Prakrika\system\library\cart\currency.php on line 30
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: date_added in W:\domains\Prakrika\admin\controller\sale\forma.php on line 159
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: date_modified in W:\domains\Prakrika\admin\controller\sale\forma.php on line 160
+2021-07-03 21:52:00 - PHP Notice:  Undefined index: shipping_code in W:\domains\Prakrika\admin\controller\sale\forma.php on line 161
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 275
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:52:00 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 282
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 272
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 279
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 279
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 279
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 279
+2021-07-03 21:54:07 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 279
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 239
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:22 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:55:25 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 246
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:15 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 253
+2021-07-03 21:56:28 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:56:28 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:56:28 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:56:28 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:56:28 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:58:42 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:58:42 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:58:42 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:58:42 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 21:58:42 - PHP Notice:  Undefined variable: forma_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 252
+2021-07-03 22:26:28 - PHP Notice:  Undefined variable: results in W:\domains\Prakrika\admin\controller\sale\forma.php on line 137
+2021-07-03 22:26:28 - PHP Warning:  Invalid argument supplied for foreach() in W:\domains\Prakrika\admin\controller\sale\forma.php on line 137
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_forma_id in W:\domains\Prakrika\admin\controller\sale\forma.php on line 98
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_customer in W:\domains\Prakrika\admin\controller\sale\forma.php on line 99
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_forma_status in W:\domains\Prakrika\admin\controller\sale\forma.php on line 100
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_forma_status_id in W:\domains\Prakrika\admin\controller\sale\forma.php on line 101
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_total in W:\domains\Prakrika\admin\controller\sale\forma.php on line 102
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_date_added in W:\domains\Prakrika\admin\controller\sale\forma.php on line 103
+2021-07-03 22:27:29 - PHP Notice:  Undefined variable: filter_date_modified in W:\domains\Prakrika\admin\controller\sale\forma.php on line 104

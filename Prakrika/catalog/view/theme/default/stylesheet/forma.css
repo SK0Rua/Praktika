@@ -1,0 +1,33 @@
+.titles{
+    width: 140px;
+    float: left;
+     font-size: 10pt;
+}
+
+#form_message{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    margin:10px;
+    padding: 10px;
+    width: 320px;
+    height:330px;
+}
+
+#form_message input,textarea{
+    border-radius: 5px;
+    width: 170px;
+}
+b {
+    color: red;
+    font-weight: bold;
+}
+#submit{
+    font-family: sans-serif;
+    font-size: 15pt;
+    height: 50px;
+    float: right;
+}
+
+#form_message h2{
+    text-align: center;
+}
